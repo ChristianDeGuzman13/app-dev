@@ -5,9 +5,10 @@
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Christian Frederick",
+  "middleName": "Adame",
+  "lastName": "De Guzman",
+  "age": 20
 }
 ```
 
@@ -66,20 +67,23 @@ ___
 ## **Watch Order**
 | No. | Title |
 | ----------- | ----------- |
-| 1 | Code Geass: Lelouch of the Rebellion (2006)|
+| 1 | Code Geass: Lelouch of the Rebellion (2006)| - [x] Write the press release
 | 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
-| 1 | Code Geass: Lelouch of the Rebellion (2006)|
-| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
-| 1 | Code Geass: Lelouch of the Rebellion (2006)|
-| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
-| 1 | Code Geass: Lelouch of the Rebellion (2006)|
-| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
-| 1 | Code Geass: Lelouch of the Rebellion (2006)|
-| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
-| 1 | Code Geass: Lelouch of the Rebellion (2006)|
-| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
-| 1 | Code Geass: Lelouch of the Rebellion (2006)|
-| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
+| 3 | Code Geass: Akito the Exiled – The Wyvern Arrives|
+| 4 | Code Geass: Akito the Exiled – The Wyvern Divided |
+| 5 | Code Geass: Akito the Exiled – The Brightness Falls|
+| 6 | Code Geass: Akito the Exiled – Memories of Hatred |
+| 7 | Code Geass: Akito the Exiled – To Beloved Ones|
+| 8 | Code Geass: Lelouch of the Rebellion R2 |
+| 9 | Code Geass: Hangyaku no Lelouch R2 Special Edition – Zero Requiem|
+| 10 | Code Geass: Hangyaku no Lelouch – Kiseki no Birthday |
+| 11 | Code Geass: Hangyaku no Lelouch – Nunnally in Wonderland|
+| 12 | Code Geass: Lelouch of the Rebellion I – Initiation |
+| 13 | Code Geass: Lelouch of the Rebellion II – Transgression|
+| 14 | Code Geass: Lelouch of the Rebellion III – Glorification|
+| 15 | Code Geass: Lelouch of the Re;surrection|
+
+
 
 ---
    
