@@ -10,9 +10,10 @@ My first repository
 1. Lelouch Lamperouge
 <img src="https://static.wikia.nocookie.net/codegeass/images/6/6a/LelouchviBritannia.jpg/revision/latest?cb=20120107132514" width="300" height="300"/>
 2. C.C.
-3. Suzaku Kururugi 
-4. Shirley Fenette 
-5. Kallen Stadtfeld 
-6. Nunnally 
-7. Euphemia Li Britannia 
-8. Schneizel El Britannia
+<img src="https://static.wikia.nocookie.net/codegeass/images/f/f8/C.C.20.jpg/revision/latest?cb=20120108105947" width="300" height="300"/>
+4. Suzaku Kururugi 
+5. Shirley Fenette 
+6. Kallen Stadtfeld 
+7. Nunnally 
+8. Euphemia Li Britannia 
+9. Schneizel El Britannia
