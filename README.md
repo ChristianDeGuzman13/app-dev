@@ -1,10 +1,11 @@
 # app-dev
 My first repository
+---
 # **Code Geass**
 <img src="https://m.media-amazon.com/images/S/pv-target-images/f6229414d529451c2677a18db912a09fc8ee78a78669cf7043acbc8d952a6f8c.jpg" width="1000" height="400"/>
-
----
 ## **About**
+---
+
 >The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. The Empire uses powerfully destructive robotic weapons called Knightmares to ensure control, but someone is about to stand up against it. Lelouch, the black prince, has endless ambition and uses the power of the Geass to build a world based on his ideals. Suzaku Kururugi, the white knight, aspires to justice and strives to live an honest and fair life.
 
 ---
@@ -48,5 +49,5 @@ My first repository
 <img src="https://steamuserimages-a.akamaihd.net/ugc/967600617572008997/65F168AD38DA34ED72C96D788906A716451AEAE0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="350" height="200"/>
 
 >Schneizel is a ruthless and cold strategist, willing to sacrifice lives without a second thought to achieve his ends, but is extremely charismatic and caring toward his subordinates. He seems to show disdain for force when it's unnecessary, such as negotiating a peace treaty with the Europia United despite dominating them militarily in every engagement. Schneizel has ambitions for the throne, a fact which the Emperor is aware of but does not seem concerned by. Schneizel seems somewhat resentful of his father, remarking that he is not concerned with the present reality. He is also quite caring to his siblings and he refers that Lelouch is the man he loved and feared the most, however he is more than willing to kill them if they get in his way. Cornelia notes that Schneizel has no desires, and in a peaceful world he would be the perfect king.
-
+---
    
