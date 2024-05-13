@@ -6,13 +6,13 @@
 : **Software Design**🖥️
 
 ```
-{
-  "firstName": "Christian Frederick",
-  "middleName": "Adame",
-  "lastName": "De Guzman",
-  "section": "BSCPE401",
-  "age": 20
-}
+
+  firstName: Christian Frederick,
+  middleName: Adame,
+  lastName: De Guzman,
+  section: BSCPE401,
+  age: 20
+
 ```
 
 ---
