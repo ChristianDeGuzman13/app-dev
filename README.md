@@ -1,10 +1,7 @@
 # app-dev
 *My First Repository*
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
 
 ```
 {
@@ -65,5 +62,24 @@ ___
 <img src="https://steamuserimages-a.akamaihd.net/ugc/967600617572008997/65F168AD38DA34ED72C96D788906A716451AEAE0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="350" height="200"/>
 
 >Schneizel is a ruthless and cold strategist, willing to sacrifice lives without a second thought to achieve his ends, but is extremely charismatic and caring toward his subordinates. He seems to show disdain for force when it's unnecessary, such as negotiating a peace treaty with the Europia United despite dominating them militarily in every engagement. Schneizel has ambitions for the throne, a fact which the Emperor is aware of but does not seem concerned by. Schneizel seems somewhat resentful of his father, remarking that he is not concerned with the present reality. He is also quite caring to his siblings and he refers that Lelouch is the man he loved and feared the most, however he is more than willing to kill them if they get in his way. Cornelia notes that Schneizel has no desires, and in a peaceful world he would be the perfect king.
+
+## **Watch Order**
+| No. | Title |
+| ----------- | ----------- |
+| 1 | Code Geass: Lelouch of the Rebellion (2006)|
+| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
+| 1 | Code Geass: Lelouch of the Rebellion (2006)|
+| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
+| 1 | Code Geass: Lelouch of the Rebellion (2006)|
+| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
+| 1 | Code Geass: Lelouch of the Rebellion (2006)|
+| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
+| 1 | Code Geass: Lelouch of the Rebellion (2006)|
+| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
+| 1 | Code Geass: Lelouch of the Rebellion (2006)|
+| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
+| 1 | Code Geass: Lelouch of the Rebellion (2006)|
+| 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
+
 ---
    
