@@ -9,7 +9,7 @@ My first repository
 ---
 ## **Characters**
 1. Lelouch Lamperouge 
-<img src="https://static.wikia.nocookie.net/codegeass/images/6/6a/LelouchviBritannia.jpg/revision/latest?cb=20120107132514" width="350" height="200"/>
+<img src="https://i.pinimg.com/originals/80/72/09/807209a27d4946fa4c33fd5d598eba18.gif" width="350" height="200"/>
 
 >Lelouch vi Britannia, whose alias is Lelouch Lamperouge, is the main protagonist of the Sunrise anime series Code Geass: Lelouch of the Rebellion. In the series, Lelouch is a former prince from the superpower Britannia who is given the power of the "Geass" by a witch known as C.C. Using the Geass and his genius-level intellect, Lelouch becomes the leader of the resistance movement known as The Black Knights under his alter ego Zero to destroy the Holy Britannian Empire, an imperial monarchy that has been conquering various countries under control from his father.
 
