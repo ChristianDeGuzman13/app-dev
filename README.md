@@ -7,7 +7,8 @@ My first repository
 ---
 ## **Characters**
 ---
-1. Lelouch Lamperouge <img src="[image.png](https://static.wikia.nocookie.net/codegeass/images/6/6a/LelouchviBritannia.jpg/revision/latest?cb=20120107132514)" width="200" height="200">
+term Lelouch Lamperouge 
+:<img src="[alt text](https://static.wikia.nocookie.net/codegeass/images/6/6a/LelouchviBritannia.jpg/revision/latest?cb=20120107132514)" width="200" height="200">
 2. C.C. 
 3. Suzaku Kururugi
 4. Shirley Fenette
