@@ -10,6 +10,7 @@
   "firstName": "Christian Frederick",
   "middleName": "Adame",
   "lastName": "De Guzman",
+  "section": "BSCPE401",
   "age": 20
 }
 ```
@@ -17,14 +18,13 @@
 ---
 
 # **Code Geass**
-<img src="https://m.media-amazon.com/images/S/pv-target-images/f6229414d529451c2677a18db912a09fc8ee78a78669cf7043acbc8d952a6f8c.jpg" width="1000" height="400"/>
+<img src="https://m.media-amazon.com/images/S/pv-target-images/f6229414d529451c2677a18db912a09fc8ee78a78669cf7043acbc8d952a6f8c.jpg" width="1000" height="650"/>
 
 ## **About**
-___
 
 >The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. The Empire uses powerfully destructive robotic weapons called Knightmares to ensure control, but someone is about to stand up against it. Lelouch, the black prince, has endless ambition and uses the power of the Geass to build a world based on his ideals. Suzaku Kururugi, the white knight, aspires to justice and strives to live an honest and fair life.
 
----
+
 ## **Characters**
 1. Lelouch Lamperouge 
 <img src="https://i.pinimg.com/originals/80/72/09/807209a27d4946fa4c33fd5d598eba18.gif" width="350" height="200"/>
@@ -66,6 +66,18 @@ ___
 
 >Schneizel is a ruthless and cold strategist, willing to sacrifice lives without a second thought to achieve his ends, but is extremely charismatic and caring toward his subordinates. He seems to show disdain for force when it's unnecessary, such as negotiating a peace treaty with the Europia United despite dominating them militarily in every engagement. Schneizel has ambitions for the throne, a fact which the Emperor is aware of but does not seem concerned by. Schneizel seems somewhat resentful of his father, remarking that he is not concerned with the present reality. He is also quite caring to his siblings and he refers that Lelouch is the man he loved and feared the most, however he is more than willing to kill them if they get in his way. Cornelia notes that Schneizel has no desires, and in a peaceful world he would be the perfect king.
 
+## **Authors**
+
+- Ichiro Okouchi 
+<img src="https://static.wikia.nocookie.net/azumanga/images/5/5a/Ichiro_Okouchi.jpg/revision/latest?cb=20140111221721" width="500" height="500"/>
+
+>Ichirō Ōkouchi born 28 March 1968 is a Japanese screenwriter and novelist. He is a graduate of the School of Human Sciences in Waseda University. Ōkouchi is best known for collaborating with director Gorō Taniguchi for composing the story and script of the Sunrise original production, Code Geass: Lelouch of the Rebellion in 2006 and its sequel Code Geass: Lelouch of the Rebellion R2 in 2008.
+
+- Gorō Taniguchi
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQY5lvgQl6gqL9VQF3HI-WB9sZIiv2EAu0D4lqC0frkVlzA7bX" width="500" height="500"/>
+
+>Gorō Taniguchi born October 18, 1966 is a Japanese anime director, writer, producer and storyboard artist, who is among Sunrise's noted directors. He was born in Nisshin, Aichi, Japan.
+
 ## **Watch Order**
 | No. | Title |
 | ----------- | ----------- |
@@ -85,7 +97,11 @@ ___
 | 14 | Code Geass: Lelouch of the Rebellion III – Glorification|
 | 15 | Code Geass: Lelouch of the Re;surrection|
 
-
-- [x] Write the press release
+## **Free Watch Online Anime sites**
+- *https://animepahe.ru/*
+- *https://ww4.gogoanime2.org/*
+  
+- [x] Check For 5 ⭐⭐⭐⭐⭐
+      
 ---
    
