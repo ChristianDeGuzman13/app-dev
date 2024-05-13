@@ -39,7 +39,7 @@ My first repository
 >Nunnally was a Princess and a daughter of Emperor Charles zi Britannia and imperial consort Marianne vi Britannia. She was 87th in line of succession to the Britannian throne. When her mother was assassinated, Nunnally was paralyzed by bullet wounds on her legs, and went blind due to the Geass cast on her by her father making her believe that she was blind. Lelouch believes that she may be able to see again someday. After the confrontation between Lelouch and the Emperor of Britannia about the murder of their mother, both Lelouch and Nunnally were exiled to Japan as political prisoners. They then went on to live in Kururugi residence where she first met Suzaku Kururugi.
 
 7. Euphemia Li Britannia
-<img src="https://64.media.tumblr.com/81b57506277dc7273c7b29380b789334/tumblr_mw8ojsaTrs1qbvovho1_500.gif" width="350" height="200"/>
+<img src="https://64.media.tumblr.com/24494b692025563fb1909bf194a5805b/cb95cad30636d6da-85/s500x750/60254faf909769fd83656d0740b5e265178f0084.gif" width="350" height="200"/>
 
 >Euphemia li Britannia was the Third Princess of the Britannian Imperial Family. Euphemia is Lelouch vi Britannia's half-sister and the sister he cared most about after Nunnally. Euphemia was the Sub-Viceroy of Area 11, a role she admittedly did not enjoy. Euphemia admired her older sister, Cornelia, but despised all combat in general, though was capable of piloting a Knightmare Frame and using a firearm.
 
