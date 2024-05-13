@@ -4,6 +4,7 @@
 
 term
 : definition
+
 ```
 {
   "firstName": "Christian Frederick",
