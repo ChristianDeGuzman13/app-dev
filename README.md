@@ -7,7 +7,7 @@ My first repository
 >The Holy Empire of Britannia conquered the country known as Japan and now call it Area 11. Its residents lost their rights to self-govern and are now called Elevens. The Empire uses powerfully destructive robotic weapons called Knightmares to ensure control, but someone is about to stand up against it. Lelouch, the black prince, has endless ambition and uses the power of the Geass to build a world based on his ideals. Suzaku Kururugi, the white knight, aspires to justice and strives to live an honest and fair life.
 
 ---
-term Lelouch Lamperouge
+Lelouch Lamperouge
 : <img src="https://static.wikia.nocookie.net/codegeass/images/6/6a/LelouchviBritannia.jpg/revision/latest?cb=20120107132514" width="300" height="300"/>
 2. C.C.
 3. Suzaku Kururugi 
