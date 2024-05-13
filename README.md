@@ -14,17 +14,17 @@ My first repository
 >Lelouch vi Britannia, whose alias is Lelouch Lamperouge, is the main protagonist of the Sunrise anime series Code Geass: Lelouch of the Rebellion. In the series, Lelouch is a former prince from the superpower Britannia who is given the power of the "Geass" by a witch known as C.C. Using the Geass and his genius-level intellect, Lelouch becomes the leader of the resistance movement known as The Black Knights under his alter ego Zero to destroy the Holy Britannian Empire, an imperial monarchy that has been conquering various countries under control from his father.
 
 2. C.C.
-<img src="https://static.wikia.nocookie.net/codegeass/images/f/f8/C.C.20.jpg/revision/latest?cb=20120108105947" width="350" height="200"/>
+<img src="https://giffiles.alphacoders.com/347/34735.gif" width="350" height="200"/>
 
 >C.C. is immortal, healing from any kind of wound (implied to include beheading) with enough time. She also doesn't age. Apart from her immortality, C.C. has the ability to bestow people with the power of Geass, which manifests differently in each person but generally carries the ability to affect the minds of those it is used on in some way.
 
 3. Suzaku Kururugi
-<img src="https://static.wikia.nocookie.net/codegeass/images/2/28/Suzaku253.jpg/revision/latest?cb=20120108065204" width="350" height="200"/>
+<img src="https://i.pinimg.com/originals/61/2f/11/612f11adea2e62f148f73d0c8c175d58.gif" width="350" height="200"/>
 
 >Suzaku is the son of Japan's last prime minister, Genbu Kururugi. His existence was kept a secret from the public until after the war. Suzaku met Lelouch vi Britannia and his sister Nunnally vi Britannia when they moved to the Kururugi residence as a diplomatic peace trade. At first, Suzaku despised Lelouch because he thought that he was a prince who didn't care about anyone. As time passed by, however, he came to know Lelouch better, and they soon became best friends. They became separated when Britannia invaded Japan, but were reunited in the Shinjuku Ghetto.
 
 4. Shirley Fenette
-<img src="https://static.wikia.nocookie.net/codegeass/images/7/7d/Shirleyfenette.png/revision/latest?cb=20111220103558" width="350" height="200"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49a21fa5-48e0-4059-80b8-7d18dbef939c/dh45j1q-4ef45e08-43bb-4160-bcd8-e88747b7289c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ5YTIxZmE1LTQ4ZTAtNDA1OS04MGI4LTdkMThkYmVmOTM5Y1wvZGg0NWoxcS00ZWY0NWUwOC00M2JiLTQxNjAtYmNkOC1lODg3NDdiNzI4OWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0yg-W-Qe-I5vSSAEtZj9s6lZAbGQgBoJWPMGXuNpAQw" width="350" height="200"/>
 
 >Shirley is a cheery and upbeat student at Ashford Academy and a member of its student council. She is also in the school's swimming club. Shirley goes out of her way to make others feel accepted, as she is the first student to try to approach Suzaku Kururugi after his transfer into the school. She is in love with Lelouch, and finds it difficult to get his attention. She is described as a girl who "fishes for attention" by Mao. Although not particularly clingy, she tends to be irked when seeing Lelouch with other girls or when Lelouch suddenly hangs up the phone on her from time to time.
    
