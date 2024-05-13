@@ -2,7 +2,8 @@
 *My First Repository*
 
 
-
+term
+: definition
 ```
 {
   "firstName": "Christian Frederick",
@@ -67,7 +68,7 @@ ___
 ## **Watch Order**
 | No. | Title |
 | ----------- | ----------- |
-| 1 | Code Geass: Lelouch of the Rebellion (2006)| - [x] Write the press release
+| 1 | Code Geass: Lelouch of the Rebellion (2006)| 
 | 2 | Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion' |
 | 3 | Code Geass: Akito the Exiled – The Wyvern Arrives|
 | 4 | Code Geass: Akito the Exiled – The Wyvern Divided |
@@ -84,6 +85,6 @@ ___
 | 15 | Code Geass: Lelouch of the Re;surrection|
 
 
-
+- [x] Write the press release
 ---
    
